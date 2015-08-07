@@ -5,12 +5,9 @@ How to create and update Apple iOS push notification certificates
 
 From Apple:
 
-> To manually generate a Certificate, you need a Certificate Signing Request (CSR) file from your Mac. To create a CSR file, follow the instructions below to create one using Keychain Access.
->
-> Create a CSR file.
 > In the Applications folder on your Mac, open the Utilities folder and launch Keychain Access.
 >
->Within the Keychain Access drop down menu, select Keychain Access > Certificate Assistant > Request a Certificate from a Certificate Authority.
+> Within the Keychain Access drop down menu, select Keychain Access > Certificate Assistant > Request a Certificate from a Certificate Authority.
 >
 > In the Certificate Information window, enter the following information:
 > In the User Email Address field, enter your email address.
